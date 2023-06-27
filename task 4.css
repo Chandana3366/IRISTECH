@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    padding: 50px;
+}
+
+#tribute-info img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#tribute-info p {
+    margin-bottom: 10px;
+}
+
+#tribute-quotes blockquote {
+    margin-bottom: 20px;
+    font-style: italic;
+    border-left: 5px solid #333;
+    padding-left: 10px;
+}
+
+#tribute-quotes cite {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#tribute-video iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
